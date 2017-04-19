@@ -1,8 +1,9 @@
 # 4chantools
 tools to archive, analyze, rank threads and search 4chan
 
-#usage 
-php -S localhost:8081
+# usage
+
+run php -S localhost:8081 inside the folder.
 
 then access localhost:8081/*.php from browser
 
